@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Venkadasubramanian
-- 👀 I’m interested in solving real world problems that can make our lives better.
-- 🌱 I’m currently learning data science and bussiness analytics
-- 💞️ I’m looking to collaborate on freelancing team projects
+- 👀 Interested in solving real world problems that can make our lives better.
+- 🌱 Currently learning data science and bussiness analytics
+- 💞️ Looking to collaborate on freelancing team projects
 - 📫 How to reach me venkadasubramanian_j@outlook.com
 
 <!---
